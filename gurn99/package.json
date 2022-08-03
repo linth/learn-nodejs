@@ -1,0 +1,14 @@
+{
+  "name": "gurn99",
+  "version": "1.0.0",
+  "description": "- [Node.js tutorial](https://www.guru99.com/node-js-tutorial.html)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
